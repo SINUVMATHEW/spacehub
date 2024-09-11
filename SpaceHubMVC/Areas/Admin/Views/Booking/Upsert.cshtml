@@ -1,0 +1,68 @@
+﻿@model BookingVM
+@{
+    ViewData["title"] = "Create Booking";
+}
+<div class="card shadow border-0 m-4">
+    <div class="card-header bg-primary ml-0 pt-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h4 class="text-white ">@(Model.Booking.Id != 0 ?"Update": "Create") Booking</h4>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-2">
+        
+<form method="post"class="pt-2 ">
+    <input asp-for="Booking.Id" hidden />
+    
+            <div class="px-4 mt-2">
+       
+        
+                <div class="mb-1 row p-1">
+                    <label asp-for="Booking.BookingDate"></label>
+                    <input type="date" asp-for="Booking.BookingDate" class="form-control p-1" />
+
+                    <span asp-validation-for="Booking.BookingDate" class="text-danger"></span>
+                </div>
+        <div class="mb-1 row p-1">
+                    <label asp-for="Booking.WorkspaceId"></label>
+                    <Select asp-for="@Model.Booking.WorkspaceId" asp-items="@Model.WorkspaceList" class="form-select p-1">
+                        <option disabled selected>--Select Workspace</option>
+                    </Select>
+                    <span asp-validation-for="Booking.WorkspaceId" class="text-danger"></span>
+
+        </div>
+        <div class="mb-1 row p-1">
+                    <label asp-for="Booking.UserId"></label>
+                    <Select asp-for="@Model.Booking.UserId" asp-items="@Model.UserList" class="form-select p-1">
+                        <option disabled selected>--Select User</option>
+                    </Select>
+                    <span asp-validation-for="Booking.UserId" class="text-danger"></span>
+
+
+        </div>
+        <div asp-validation-summary="All"></div>
+        <div class="row my-2 ">
+          <div class="col-6 col-md-3">
+              @if(Model.Booking.Id==0)
+              {
+                        <button type="submit" class="btn btn-outline-primary form-control">Create</button>
+              }
+              else {
+                            <button type="submit" class="btn btn-outline-primary form-control">Update</button>
+              }
+          </div>
+            <div class="col-6 col-md-3">
+                <a asp-controller="Booking" asp-action="Index" class="btn btn-outline-primary border form-control">Back to List</a>
+
+          </div>
+        </div>
+        
+       
+    </div>
+</form>
+</div>
+</div>
+@section Scripts{
+<partial name="_ValidationScriptsPartial" />
+}

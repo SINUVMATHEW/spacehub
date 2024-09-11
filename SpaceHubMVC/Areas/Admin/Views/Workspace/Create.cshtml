@@ -1,0 +1,60 @@
+﻿@model Workspace
+@{
+    ViewData["title"] = "Create Workspace";
+}
+<div class="card shadow border-0 m-4">
+    <div class="card-header bg-primary ml-0 pt-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h4 class="text-white ">Create Workspace</h4>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-2">
+<form method="post"class="pt-2 ">
+            <div class="px-4 mt-2">
+       
+        <div class="mb-1 row p-1">
+            <label asp-for="Id"></label>
+            <input asp-for="Id" class="form-control p-1"/>
+            <span asp-validation-for="Id" class="text-danger"></span>
+
+        </div>
+        <div class="mb-1 row p-1">
+            <label asp-for="Building"></label>
+            <input asp-for="Building" class="form-control p-1" />
+            <span asp-validation-for="Building" class="text-danger"></span>
+
+        </div>
+        <div class="mb-1 row p-1">
+            <label asp-for="Module"></label>
+            <input asp-for="Module" class="form-control p-1" />
+            <span asp-validation-for="Module" class="text-danger"></span>
+
+        </div>
+        <div class="mb-1 row p-1">
+            <label asp-for="SeatNo"></label>
+            <input asp-for="SeatNo" class="form-control p-1" />
+            <span asp-validation-for="SeatNo" class="text-danger"></span>
+
+
+        </div>
+        <div asp-validation-summary="All"></div>
+        <div class="row my-2 ">
+          <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-outline-primary form-control">Create</button>
+          </div>
+            <div class="col-6 col-md-3">
+                <a asp-controller="workspace" asp-action="Index" class="btn btn-outline-primary border form-control">Back to List</a>
+
+          </div>
+        </div>
+        
+       
+    </div>
+</form>
+</div>
+</div>
+@section Scripts{
+<partial name="_ValidationScriptsPartial" />
+}

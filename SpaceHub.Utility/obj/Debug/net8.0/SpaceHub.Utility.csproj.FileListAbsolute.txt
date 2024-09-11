@@ -1,0 +1,11 @@
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\bin\Debug\net8.0\SpaceHub.Utility.deps.json
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\bin\Debug\net8.0\SpaceHub.Utility.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\bin\Debug\net8.0\SpaceHub.Utility.pdb
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Utility.AssemblyInfoInputs.cache
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Utility.AssemblyInfo.cs
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Utility.csproj.CoreCompileInputs.cache
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Utility.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\refint\SpaceHub.Utility.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Utility.pdb
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\ref\SpaceHub.Utility.dll

@@ -1,0 +1,17 @@
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.AssemblyInfo.cs
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\bin\Debug\net8.0\SpaceHub.DataAccess.deps.json
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\bin\Debug\net8.0\SpaceHub.DataAccess.runtimeconfig.json
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\bin\Debug\net8.0\SpaceHub.DataAccess.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\bin\Debug\net8.0\SpaceHub.DataAccess.pdb
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\bin\Debug\net8.0\SpaceHub.Models.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\bin\Debug\net8.0\SpaceHub.Models.pdb
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.776F07EC.Up2Date
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\refint\SpaceHub.DataAccess.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.pdb
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.genruntimeconfig.cache
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\ref\SpaceHub.DataAccess.dll

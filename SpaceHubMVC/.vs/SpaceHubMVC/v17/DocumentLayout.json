@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHubMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB76144-9D5C-4F1B-9C35-7B591F2CA8B0}|..\\SpaceHub.DataAccess\\SpaceHub.DataAccess.csproj|c:\\users\\sinu.mathew\\source\\repos\\spacehub.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E70F622-CD16-4C96-A10A-C016674DAFA3}|SpaceHubMVC.csproj|c:\\users\\sinu.mathew\\source\\repos\\spacehubmvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E70F622-CD16-4C96-A10A-C016674DAFA3}|SpaceHubMVC.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E70F622-CD16-4C96-A10A-C016674DAFA3}|SpaceHubMVC.csproj|c:\\users\\sinu.mathew\\source\\repos\\spacehubmvc\\areas\\employee\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E70F622-CD16-4C96-A10A-C016674DAFA3}|SpaceHubMVC.csproj|solutionrelative:areas\\employee\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E70F622-CD16-4C96-A10A-C016674DAFA3}|SpaceHubMVC.csproj|c:\\users\\sinu.mathew\\source\\repos\\spacehubmvc\\wwwroot\\js\\booking.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8E70F622-CD16-4C96-A10A-C016674DAFA3}|SpaceHubMVC.csproj|solutionrelative:wwwroot\\js\\booking.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E70F622-CD16-4C96-A10A-C016674DAFA3}|SpaceHubMVC.csproj|c:\\users\\sinu.mathew\\source\\repos\\spacehubmvc\\areas\\admin\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E70F622-CD16-4C96-A10A-C016674DAFA3}|SpaceHubMVC.csproj|solutionrelative:areas\\admin\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHub.DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "..\\SpaceHub.DataAccess\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHub.DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "..\\SpaceHub.DataAccess\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:45:56.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHubMVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHubMVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T10:38:46.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHubMVC\\Areas\\Employee\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Employee\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHubMVC\\Areas\\Employee\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Employee\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T10:37:13.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHubMVC\\Areas\\Admin\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHubMVC\\Areas\\Admin\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T10:18:53.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "booking.js",
+              "DocumentMoniker": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHubMVC\\wwwroot\\js\\booking.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\booking.js",
+              "ToolTip": "C:\\Users\\sinu.mathew\\source\\repos\\SpaceHubMVC\\wwwroot\\js\\booking.js",
+              "RelativeToolTip": "wwwroot\\js\\booking.js",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T10:16:56.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
