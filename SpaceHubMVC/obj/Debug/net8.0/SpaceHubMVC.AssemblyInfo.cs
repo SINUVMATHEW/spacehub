@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceHubMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d8411ea0322a27a1f394096e5c0a2273830480c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5a532f674f02d06538d3df70c049f1e8c9270a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceHubMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceHubMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
