@@ -15,3 +15,4 @@ C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\refint\Sp
 C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.pdb
 C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.genruntimeconfig.cache
 C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\ref\SpaceHub.DataAccess.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.DataAccess\obj\Debug\net8.0\SpaceHub.DataAccess.sourcelink.json

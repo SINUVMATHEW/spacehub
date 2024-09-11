@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using SpaceHub.Models;
 namespace SpaceHub.DataAccess.Data;
@@ -7,7 +8,7 @@ namespace SpaceHub.DataAccess.Data;
 
 
 
-public class ApplicationDBContext : IdentityDbContext
+public class ApplicationDBContext :  IdentityDbContext<IdentityUser>
 {
     public ApplicationDBContext(DbContextOptions options) : base(options)  { 
     }

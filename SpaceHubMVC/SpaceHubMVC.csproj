@@ -27,4 +27,8 @@
     <ProjectReference Include="..\SpaceHub.Utility\SpaceHub.Utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Identity\Data\" />
+  </ItemGroup>
+
 </Project>
