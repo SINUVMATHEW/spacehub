@@ -16,3 +16,4 @@ C:\Users\sinu.mathew\source\repos\SpaceHub.Models\obj\Debug\net8.0\refint\SpaceH
 C:\Users\sinu.mathew\source\repos\SpaceHub.Models\obj\Debug\net8.0\SpaceHub.Models.pdb
 C:\Users\sinu.mathew\source\repos\SpaceHub.Models\obj\Debug\net8.0\SpaceHub.Models.genruntimeconfig.cache
 C:\Users\sinu.mathew\source\repos\SpaceHub.Models\obj\Debug\net8.0\ref\SpaceHub.Models.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.Models\obj\Debug\net8.0\SpaceHub.Models.sourcelink.json

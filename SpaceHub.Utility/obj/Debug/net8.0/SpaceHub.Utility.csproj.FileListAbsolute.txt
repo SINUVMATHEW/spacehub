@@ -9,3 +9,5 @@ C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Uti
 C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\refint\SpaceHub.Utility.dll
 C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Utility.pdb
 C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\ref\SpaceHub.Utility.dll
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Utility.csproj.AssemblyReference.cache
+C:\Users\sinu.mathew\source\repos\SpaceHub.Utility\obj\Debug\net8.0\SpaceHub.Utility.sourcelink.json

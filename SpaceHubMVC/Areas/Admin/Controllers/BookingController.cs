@@ -13,13 +13,14 @@ namespace SpaceHubMVC.Areas.Admin.Controllers
     {
         private readonly IBookingRepository _BookingRepository;
         private readonly IUserRepository _UserRepository;
+        private readonly IAppUserRepository _AppUserRepository;
         private readonly IWorkspaceRepository _WorkspaceRepository;
-        public BookingController(IBookingRepository db, IUserRepository Userdb, IWorkspaceRepository Workspacedb)
+        public BookingController(IBookingRepository db, IUserRepository Userdb, IWorkspaceRepository Workspacedb, IAppUserRepository appUserdb)
         {
             _BookingRepository = db;
             _UserRepository = Userdb;
             _WorkspaceRepository = Workspacedb;
-
+            _AppUserRepository = appUserdb;
         }
         public IActionResult Index()
         {
@@ -37,9 +38,9 @@ namespace SpaceHubMVC.Areas.Admin.Controllers
                     Text = u.SeatNo.ToString(),
                     Value = u.Id.ToString()
                 }),
-                UserList = _UserRepository.GetAll().Select(u => new SelectListItem
+                UserList = _AppUserRepository.GetAll().Select(u => new SelectListItem
                 {
-                    Text = u.Name,
+                    Text = u.UserName,
                     Value = u.Id.ToString()
                 }),
                 Booking = new Booking()

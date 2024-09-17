@@ -8,9 +8,7 @@ namespace SpaceHub.Models
     public class Workspace
     {
 
-        [Required]
         [Key]
-        [DisplayName("Workspace ID")]
         public int Id { get; set; }
 
 

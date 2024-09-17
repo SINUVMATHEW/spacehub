@@ -1,11 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using SpaceHub.DataAccess.Data;
 using SpaceHub.DataAccess.Repository.IRepository;
 using SpaceHub.Models;
+using SpaceHub.Utility;
 
 namespace SpaceHubMVC.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class WorkspaceController : Controller
     {
         private readonly IWorkspaceRepository _WorkspaceRepository;

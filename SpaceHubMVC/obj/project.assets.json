@@ -5012,7 +5012,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
-          "Microsoft.EntityFrameworkCore": "8.0.8"
+          "Microsoft.EntityFrameworkCore": "8.0.8",
+          "Microsoft.Extensions.Identity.Stores": "8.0.8"
         },
         "compile": {
           "bin/placeholder/SpaceHub.Models.dll": {}
@@ -5024,6 +5025,9 @@
       "SpaceHub.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "8.0.8"
+        },
         "compile": {
           "bin/placeholder/SpaceHub.Utility.dll": {}
         },
